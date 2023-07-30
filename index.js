@@ -21,6 +21,54 @@ app.get("/posts", (req, res) => {
         image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
       },
       {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
+        title: "gaynoob2",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
+        image: "https://tpc.googlesyndication.com/simgad/13217190589223325630",
+      },
+      {
         title: "gaynoob3",
         description:
           "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt magnam modi doloribus voluptatibus fugit veritatis itaque tenetur non quae atque, maxime quod officiis vel, nulla repudiandae ipsum laboriosam, est minus.",
